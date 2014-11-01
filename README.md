@@ -1,4 +1,4 @@
 Shooter
 =======
-src - Java sorce code
+src - Java source code
 res - resources for game
